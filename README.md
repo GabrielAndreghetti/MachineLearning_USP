@@ -12,7 +12,7 @@
 
 ## 📂 Conteúdo do Repositório
 
-📦 MachineLearning_USP\n
+📦 MachineLearning_USP
 ┣ 📁 Trabalho1_Classificacao/
 ┃ ┣ 📄 Trab01_ml.ipynb
 ┣ 📁 Trabalho2_Clusterizacao/
