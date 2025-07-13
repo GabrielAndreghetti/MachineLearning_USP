@@ -12,13 +12,12 @@
 ## 📂 Conteúdo do Repositório
 
 ```markdown
-📦 ml-projects-2025
-┣ 📁 Trabalho1_Classificacao/
+📦 MachineLearning_USP
+┣ 📁 Trabalho01/
 ┃ ┣ 📄 Trab01_ml.ipynb
-┃ ┗ 📄 README.md
-┣ 📁 Trabalho2_Clusterizacao/
+┣ 📁 Trabalho2/
 ┃ ┣ 📄 Trab02_ml.ipynb
-┃ ┗ 📄 README.md
+┃ ┗ 📄 processed_microplastics.csv
 ┗ 📄 README.md 
 ```
 
