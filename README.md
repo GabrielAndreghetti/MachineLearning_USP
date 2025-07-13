@@ -10,15 +10,14 @@
 
 ---
 
-## 📂 Conteúdo do Repositório
-
- MachineLearning_USP
+📦 MachineLearning_USP
 ├── Trabalho1_Classificacao/
 │   └── Trab01_ml.ipynb
 ├── Trabalho2_Clusterizacao/
 │   ├── Trab02_ml.ipynb
 │   └── processed_microplastics.csv
 └── README.md  ← (você está aqui!)
+
 
 
 ---
