@@ -9,6 +9,7 @@
 </p>
 
 ---
+## 📂 Conteúdo do Repositório
 
 ```markdown
 📦 ml-projects-2025
