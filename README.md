@@ -10,6 +10,7 @@
 
 ---
 
+```markdown
 📦 MachineLearning_USP
 ├── Trabalho1_Classificacao/
 │   └── Trab01_ml.ipynb
@@ -17,6 +18,8 @@
 │   ├── Trab02_ml.ipynb
 │   └── processed_microplastics.csv
 └── README.md  ← (você está aqui!)
+```
+
 
 
 
