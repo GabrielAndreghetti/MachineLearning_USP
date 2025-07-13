@@ -22,7 +22,7 @@
 
 ---
 
-## ✅ Trabalho 1: Predição de Diabetes com Classificadores
+## ✅ Projeto 1: Predição de Diabetes com Classificadores
 
 **Tema:** Tarefa preditiva supervisionada utilizando múltiplos algoritmos de classificação para prever a ocorrência de diabetes com base em variáveis comportamentais e clínicas.
 
@@ -42,7 +42,7 @@
 
 ---
 
-## ✅ Trabalho 2: Clusterização de Padrões Alimentares com Contaminação por Microplásticos
+## ✅ Projeto 2: Clusterização de Padrões Alimentares com Contaminação por Microplásticos
 
 **Tema:** Agrupamento de países com base em seu consumo alimentar e níveis de microplásticos nos alimentos, utilizando aprendizado não supervisionado.
 
