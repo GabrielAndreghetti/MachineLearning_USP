@@ -38,7 +38,7 @@
   - Random Forest e Gradient Boosting obtiveram os melhores desempenhos
   - O tratamento do desbalanceamento da variável-alvo foi essencial para resultados robustos
 
-🔗 [`Trabalho 1 - Acesse aqui`](./Trabalho1_Classificacao/Trab01_ml.ipynb)
+🔗 [`Trabalho 1 - Acesse aqui`](./Trabalho01/Trab01_ml.ipynb)
 
 ---
 
@@ -58,7 +58,7 @@
   - Perfis ricos em frutos do mar ou alimentos processados tendem a se agrupar com níveis mais altos de microplásticos
   - K-Means apresentou maior capacidade de separação dos grupos
 
-🔗 [`Trabalho 2 - Acesse aqui`](./Trabalho2_Clusterizacao/Trab02_ml.ipynb)
+🔗 [`Trabalho 2 - Acesse aqui`](./Trabalho02/Trab02_ml.ipynb)
 
 ---
 
