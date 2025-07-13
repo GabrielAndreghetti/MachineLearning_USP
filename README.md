@@ -75,7 +75,7 @@
 Para dúvidas ou sugestões:
 
 - [LinkedIn – Gabriel Andreghetti](https://www.linkedin.com/in/gabrielandreghetti/)
-- Email: **gabriel.andreghetti@usp.br*
+- Email: *gabriel.andreghetti@usp.br*
 
 ---
 
