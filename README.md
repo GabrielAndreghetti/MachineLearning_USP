@@ -11,13 +11,14 @@
 ---
 
 ```markdown
-📦 MachineLearning_USP
-├── Trabalho1_Classificacao/
-│   └── Trab01_ml.ipynb
-├── Trabalho2_Clusterizacao/
-│   ├── Trab02_ml.ipynb
-│   └── processed_microplastics.csv
-└── README.md  ← (você está aqui!)
+📦 ml-projects-2025
+┣ 📁 Trabalho1_Classificacao/
+┃ ┣ 📄 Trab01_ml.ipynb
+┃ ┗ 📄 README.md
+┣ 📁 Trabalho2_Clusterizacao/
+┃ ┣ 📄 Trab02_ml.ipynb
+┃ ┗ 📄 README.md
+┗ 📄 README.md 
 ```
 
 
